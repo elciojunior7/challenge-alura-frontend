@@ -1,6 +1,6 @@
-# AluraStore
+# AluraGeek
 
-Projeto relativo ao 3º challenge frontend Alura
+Projeto relativo ao 3º challenge frontend Alura (AluraGeek)
 
 ## Tecnologias e técnicas
 
