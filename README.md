@@ -4,9 +4,9 @@ Projeto relativo ao 3º challenge frontend Alura
 
 ## Tecnologias e técnicas
 
--- HTML
--- CSS (BEM, flex, grid)
--- Angular 11.2.2
+- HTML
+- CSS (BEM, flex, grid)
+- Angular 11.2.2
 
 ## Development server
 
